@@ -1,4 +1,3 @@
-// Addition de deux nombres
 function add(a, b) {
     return a + b; // Commentaire important
 }
